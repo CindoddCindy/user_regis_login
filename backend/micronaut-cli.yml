@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: cindy.userregislogin
+---
+testFramework: junit
+sourceLanguage: java
